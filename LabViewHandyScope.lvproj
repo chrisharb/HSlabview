@@ -20,21 +20,21 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="CH_N.vi" Type="VI" URL="../../../LabViewHS4/CH_N.vi"/>
-		<Item Name="GetOSC.vi" Type="VI" URL="../../../LabViewHS4/GetOSC.vi"/>
-		<Item Name="HStest.vi" Type="VI" URL="../../../LabViewHS4/HStest.vi"/>
-		<Item Name="Acquire.vi" Type="VI" URL="../../../LabViewHS4/Acquire.vi"/>
-		<Item Name="channels_settings.vi" Type="VI" URL="../../../LabViewHS4/channels_settings.vi"/>
-		<Item Name="InitOpen.vi" Type="VI" URL="../../../LabViewHS4/InitOpen.vi"/>
-		<Item Name="Test.vi" Type="VI" URL="../../../LabViewHS4/Test.vi"/>
-		<Item Name="LibInitStatus.vi" Type="VI" URL="../../../LabViewHS4/LibInitStatus.vi"/>
-		<Item Name="ChannelSettings.vi" Type="VI" URL="../../../LabViewHS4/ChannelSettings.vi"/>
-		<Item Name="OscilloscopeSettings.vi" Type="VI" URL="../../../LabViewHS4/OscilloscopeSettings.vi"/>
-		<Item Name="LibTiePie.lvlib" Type="Library" URL="../../../LabViewHS4/LibTiePie.lvlib"/>
-		<Item Name="menu_config.rtm" Type="Document" URL="../../../LabViewHS4/menu_config.rtm"/>
-		<Item Name="ChannelSettings2.vi" Type="VI" URL="../../../LabViewHS4/ChannelSettings2.vi"/>
+		<Item Name="CH_N.vi" Type="VI" URL="../CH_N.vi"/>
+		<Item Name="GetOSC.vi" Type="VI" URL="../GetOSC.vi"/>
+		<Item Name="HStest.vi" Type="VI" URL="../HStest.vi"/>
+		<Item Name="Acquire.vi" Type="VI" URL="../Acquire.vi"/>
+		<Item Name="channels_settings.vi" Type="VI" URL="../channels_settings.vi"/>
+		<Item Name="InitOpen.vi" Type="VI" URL="../InitOpen.vi"/>
+		<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
+		<Item Name="LibInitStatus.vi" Type="VI" URL="../LibInitStatus.vi"/>
+		<Item Name="ChannelSettings.vi" Type="VI" URL="../ChannelSettings.vi"/>
+		<Item Name="OscilloscopeSettings.vi" Type="VI" URL="../OscilloscopeSettings.vi"/>
+		<Item Name="LibTiePie.lvlib" Type="Library" URL="../LibTiePie.lvlib"/>
+		<Item Name="menu_config.rtm" Type="Document" URL="../menu_config.rtm"/>
+		<Item Name="ChannelSettings2.vi" Type="VI" URL="../ChannelSettings2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="libtiepie.dll" Type="Document" URL="../../../LabViewHS4/libtiepie.dll"/>
+			<Item Name="libtiepie.dll" Type="Document" URL="../libtiepie.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
